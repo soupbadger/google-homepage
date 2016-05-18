@@ -1,0 +1,20 @@
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 190px;
+}
+
+input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  width: 470px;
+  border: 1px solid #d9d9d9;
+  padding: 11px;
+}
+
+input:hover {
+  border: 1px solid #808080;
+}
