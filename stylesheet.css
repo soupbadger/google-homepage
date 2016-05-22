@@ -1,8 +1,8 @@
 .logo {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   padding-top: 190px;
+  padding-left: 15em;
 }
 
 input {
@@ -17,4 +17,17 @@ input {
 
 input:hover {
   border: 1px solid #808080;
+}
+
+li {
+  float: right;
+  list-style-type: none;
+  display: block;
+  padding: 5px;
+  background-color: white;
+  color: #808080;
+}
+
+.profileimg {
+  border-radius: 100%;
 }
